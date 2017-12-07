@@ -2,7 +2,8 @@
 
 **Author(s):** **Riley and Nikki**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-12-riley-nikki.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-12-riley-nikki)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-12-riley-nikki.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-12-riley-nikki.svg?branch=master)
+
 
 
 ## Specification
