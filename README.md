@@ -1,6 +1,6 @@
-# PHYS220 CW 12 
+3# PHYS220 CW 12 
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Riley and Nikki**
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-12-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-12-YOURNAME)
 
@@ -29,7 +29,7 @@ Your homework this week will be to finish this classwork assignment, and then us
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**This assignment was interesting in that it involved physics terms and ideas that I am learning now in Physics 107.  This assignment was hard for me in that I have never seen/heard of a poincare section before, so I had to do some research to learn what my data meant.  I am still not sure I am describing the data correctly in my analysis, but I tried given what I've learned from the internet.**
 
 ## Honor Pledge
 
@@ -40,4 +40,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley and Nikki**
